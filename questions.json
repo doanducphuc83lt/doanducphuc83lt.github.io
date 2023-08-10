@@ -1,0 +1,26 @@
+[
+    {
+        "question": "cau 1....",
+        "choice1": "da 1",
+        "choice2": "da 2",
+        "choice3": "da 3",
+        "choice4": "da 4",
+        "answer": 1
+    },
+    {
+        "question": "cau 2....",
+        "choice1": "da 1",
+        "choice2": "da 2",
+        "choice3": "da 3",
+        "choice4": "da 4",
+        "answer": 2
+    },
+    {
+        "question": "cau 3....",
+        "choice1": "da 1",
+        "choice2": "da 2",
+        "choice3": "da 3",
+        "choice4": "da 4",
+        "answer": 3
+    }
+]
